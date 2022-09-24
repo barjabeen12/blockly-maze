@@ -11,7 +11,6 @@
 'use strict';
 
 goog.provide('Maze.html');
-
 goog.require('BlocklyGames');
 goog.require('BlocklyGames.html');
 
